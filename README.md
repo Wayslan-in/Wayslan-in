@@ -14,11 +14,6 @@
 #Um espaço dedicado a Projetos!</i>
 ##  <i> Me chamo Wayslan Miranda!  </i>💻
 
-
-🎯Sou *Profissional de TI apaixonado por Tecnologia da Informação!* <br>Formado pela <strong>Faculdade UNICE em Analise de Desenvolvimento de Sistemas, e me Capacitando na Q.a Coders em Quality Assurance</strong>, com a Mentoria do Professor Willian.
-
-🎯https://github.com/Projeto-in?tab=repositories
-
 <div align="center"> 
   <img align="center" alt="Rafa-Js" height="250" width="250" src="https://media.tenor.com/D8IYs3OLCfkAAAAi/soy-nerd.gif" >
 </div>
