@@ -6,7 +6,7 @@
 </p>
 </div>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="wayslanmiranda" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/wayslanmiranda?trk=profile-badge">Wayslan Miranda</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="wayslanmiranda" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/wayslanmiranda?trk=profile-badge">Volta ao Linkedin!</a></div>
               
               
 <p align="right">
