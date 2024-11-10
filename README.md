@@ -6,6 +6,8 @@
 </p>
 </div>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <p align="right">
 <table width="2000%">
 <tr><td valign="top" width="100%">
