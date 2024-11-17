@@ -1,4 +1,3 @@
-    
 <div>
   <p align="center">
   <img loading="lazy" src="http://img.shields.io/static/v1?label=PERFIL&message=EM%20DESENVOLVIMENTO&color=blue&style=for-the-badge"/>
@@ -6,8 +5,9 @@
 </p>
 </div>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="wayslanmiranda" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/wayslanmiranda?trk=profile-badge">⬅️Volta ao Linkedin</a></div>
-              
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="wayslanmiranda" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/wayslanmiranda?trk=profile-badge"><b>⬅️Volta ao Linkedin</a></div><b>
+
+![log qa coders](https://private-user-images.githubusercontent.com/153374411/387002022-84a7e0d7-3776-429a-8462-f5c47c05c687.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE4NzY4NzksIm5iZiI6MTczMTg3NjU3OSwicGF0aCI6Ii8xNTMzNzQ0MTEvMzg3MDAyMDIyLTg0YTdlMGQ3LTM3NzYtNDI5YS04NDYyLWY1YzQ3YzA1YzY4Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExN1QyMDQ5MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MTg5M2RmM2NkYjhmZDQwOTEzNTA4OWI0YzQ0NWI1YWMyOWU4YjVmN2ZmMDcwMDlmNDNlNGQxZGM3NjhlMzhmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lVR4A0Bj7VPKEXuS6HbP23q3-Bztp8Gk5iUgB95iG5g)           
               
 <p align="right">
 <table width="2000%">
